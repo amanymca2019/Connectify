@@ -1,5 +1,5 @@
 {
-  "name": "chatcord",
+  "name": "connectify",
   "version": "1.0.0",
   "description": "real time chat app with rooms",
   "main": "server.js",
